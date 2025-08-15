@@ -18,8 +18,7 @@
 
 - 🎓 Postgraduate student at **NIT Warangal** in *Mathematics and Scientific Computing (2025–27)*.  
 - 📊 Passionate about **Data Science**, **Artificial Intelligence**, and **Machine Learning**.  
-- 💡 Strong foundation in *Python, statistics, numerical analysis, and problem-solving*.  
-- 🏆 Achievements in sports — Gold Medalist in 400m athletics, multiple medals in Kho-Kho & marathon events at NIT Warangal.  
+- 💡 Strong foundation in *Python, statistics, numerical analysis, and problem-solving*.   
 
 ---
 
