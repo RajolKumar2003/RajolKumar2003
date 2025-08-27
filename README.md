@@ -28,7 +28,7 @@
 - Data Science workflows (EDA, Model Building, Deployment)  
 - AI model optimization and integration with real-world systems  
 - Advanced Python for Scientific Computing  
-
+- DSA using C++
 ---
 
 ## 💼 Looking For Opportunities
@@ -44,7 +44,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=plotly)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=mathworks)
@@ -54,11 +53,7 @@
 
 ## 📌 Pinned Projects
 
-(*Replace with your own GitHub repositories once ready*)
-
-- **Data Science Project 1** – Predictive analytics using Python and ML.  
-- **AI Model Deployment** – End-to-end ML pipeline with Flask API.  
-- **Visualization Dashboard** – Interactive data visualization with Plotly/Dash.  
+  
 
 ---
 
