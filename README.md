@@ -143,11 +143,11 @@ Computer-Log-Anomaly-Detection
 
 # 📊 Evaluation Metrics
 
-- Accuracy
 - Precision
 - Recall
 - F1-score
-- ROC-AUC
+- FPR
+- FN
 - Confusion Matrix
 
 ---
@@ -176,9 +176,9 @@ Computer-Log-Anomaly-Detection
 
 **Rajol Kumar**
 
-B.Tech Student
+M.Sc. Student
 
-Artificial Intelligence & Machine Learning
+Mathematics & Sientific Computing
 
 ---
 
