@@ -88,7 +88,6 @@ Computer-Log-Anomaly-Detection
 ├── Large_Dataset_Contamination.ipynb
 ├── Large_Dataset_SecondBestValue.ipynb
 ├── README.md
-└── requirements.txt
 ```
 
 # ⚙️ Technologies Used
