@@ -14,7 +14,7 @@
 
 ## 📖 Project Overview
 
-This repository presents a **Machine Learning-based Network Intrusion Detection System** developed using the **UNSW-NB15** cybersecurity dataset.
+This repository presents a **Machine Learning-based Network Intrusion Detection System** developed using cybersecurity datasets.
 
 The objective of this project is to detect malicious network traffic by comparing classical machine learning algorithms with deep learning techniques for anomaly detection.
 
