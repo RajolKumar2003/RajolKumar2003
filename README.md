@@ -33,16 +33,6 @@ The project evaluates different **training strategies**, **feature selection met
 
 ---
 
-# 📂 Dataset
-
-| Dataset | Description |
-|----------|-------------|
-| UNSW-NB15 | Modern Network Intrusion Detection Dataset |
-| Domain | Cyber Security |
-| Problem Type | Binary Classification / Anomaly Detection |
-
----
-
 # 🧠 Machine Learning Models
 
 | Model | Type |
@@ -113,21 +103,6 @@ Computer-Log-Anomaly-Detection
 
 ---
 
-## Medium Dataset
-
-- Experiment 1
-- Experiment 2
-
----
-
-## Large Dataset
-
-- Benign-only Training
-- Contaminated Training
-- Alternative Hyperparameter Configuration
-
----
-
 # ⚙️ Technologies Used
 
 - Python
@@ -147,7 +122,7 @@ Computer-Log-Anomaly-Detection
 - Recall
 - F1-score
 - FPR
-- FN
+- FNR
 - Confusion Matrix
 
 ---
