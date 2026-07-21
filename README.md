@@ -91,18 +91,6 @@ Computer-Log-Anomaly-Detection
 └── requirements.txt
 ```
 
----
-
-# 🔬 Experiments
-
-## Small Dataset
-
-- Data preprocessing
-- Feature Engineering
-- Baseline Models
-
----
-
 # ⚙️ Technologies Used
 
 - Python
