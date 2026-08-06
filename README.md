@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Rajol Kumar, an M.Sc. Mathematics & Scientific
 - ### Databases
   [![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://github.com/RajolKumar2003)
 
-## Current Research
+## Project
 **Anomaly Detection in Computer Logs Using ML/DL Techniques** — *WSAI, IIT Madras (May 2026 – Jul 2026)*
 - Designed a 3-stage ML pipeline (small → medium → large scale) across **1M+ network traffic records**
 - Evaluated 7 supervised classifiers on **UNSW-NB15** (257K+ records) with Optuna HPO → best model **XGBoost (F1 = 0.91)**
@@ -31,14 +31,8 @@ Welcome to my GitHub profile! I'm Rajol Kumar, an M.Sc. Mathematics & Scientific
 ## Certifications
 [![Static Badge](https://img.shields.io/badge/MATLAB-Onramp-%20?style=flat&logo=mathworks&color=orange)](https://github.com/RajolKumar2003) [![Static Badge](https://img.shields.io/badge/Machine%20Learning-Onramp-%20?style=flat&logo=mathworks&color=orange)](https://github.com/RajolKumar2003) [![Static Badge](https://img.shields.io/badge/Image%20Processing-Onramp-%20?style=flat&logo=mathworks&color=orange)](https://github.com/RajolKumar2003) [![Static Badge](https://img.shields.io/badge/Deep%20Learning-Onramp-%20?style=flat&logo=mathworks&color=orange)](https://github.com/RajolKumar2003)
 
-## GitHub Analytics
-[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajolKumar2003&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajolKumar2003&layout=compact&theme=dark&hide_border=true"/>](https://github.com/RajolKumar2003)
-
 ## GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=RajolKumar2003&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-## Trophies
-![](https://github-profile-trophy.vercel.app/?username=RajolKumar2003&theme=onedark)
 
 ## Achievements
 - 🎓 Institute Merit-cum-Means Scholarship, NIT Warangal (2025)
