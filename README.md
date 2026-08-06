@@ -2,7 +2,7 @@
 # Rajol Kumar
 ### NIT Warangal | Data Science & AI/ML | Anomaly Detection Researcher
 
-Welcome to my GitHub profile! I'm Rajol Kumar, an M.Sc. Mathematics & Scientific Computing student at NIT Warangal with a passion for Machine Learning, Deep Learning, and Data Science. I'm currently working on ML/DL-based network anomaly and intrusion detection as a Summer Research Intern at WSAI, IIT Madras. Excited to share my journey with you through my project portfolio.
+Welcome to my GitHub profile! I'm Rajol Kumar, an M.Sc. Mathematics & Scientific Computing student at NIT Warangal with a passion for Machine Learning, Deep Learning, and Data Science. I'm currently buliding a strong foundation on Data Scientist.
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajolKumar2003&theme=dark)](https://github.com/RajolKumar2003)
 
