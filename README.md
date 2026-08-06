@@ -21,15 +21,8 @@ Welcome to my GitHub profile! I'm Rajol Kumar, an M.Sc. Mathematics & Scientific
 - Evaluated 7 supervised classifiers on **UNSW-NB15** (257K+ records) with Optuna HPO → best model **XGBoost (F1 = 0.91)**
 - Compared statistical, tree-based, distance-based & DL methods on **CSE-CIC-IDS2018** (48 configs, 3 anomaly rates: 0.2%, 1%, 5%) → best **Autoencoder (F1 = 0.93)**, scaled to 874K+ records, peak **F1 = 0.96**
 
-## Certifications
-[![Static Badge](https://img.shields.io/badge/MATLAB-Onramp-%20?style=flat&logo=mathworks&color=orange)](https://github.com/RajolKumar2003) [![Static Badge](https://img.shields.io/badge/Machine%20Learning-Onramp-%20?style=flat&logo=mathworks&color=orange)](https://github.com/RajolKumar2003) [![Static Badge](https://img.shields.io/badge/Image%20Processing-Onramp-%20?style=flat&logo=mathworks&color=orange)](https://github.com/RajolKumar2003) [![Static Badge](https://img.shields.io/badge/Deep%20Learning-Onramp-%20?style=flat&logo=mathworks&color=orange)](https://github.com/RajolKumar2003)
-
 ## GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=RajolKumar2003&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-## Contact
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajol.kumar.official@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rajol-kumar-3ab282378/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajolKumar2003)
-
 <!---
 RajolKumar2003/RajolKumar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
