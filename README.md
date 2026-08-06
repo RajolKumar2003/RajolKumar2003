@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm Rajol Kumar, an M.Sc. Mathematics & Scientific
 [![GitHub Streak](https://streak-stats.demolab.com?user=RajolKumar2003&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Contact
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajol.kumar.official@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rajol-kumar-3ab282378) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajolKumar2003)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajol.kumar.official@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rajol-kumar-3ab282378/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajolKumar2003)
 
 <!---
 RajolKumar2003/RajolKumar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
