@@ -1,103 +1,57 @@
-<h1 align="center">Hi 👋, I'm Rajol Kumar</h1>
-<h3 align="center">Data Science & AI/ML | MS Mathematics & Scientific Computing, NIT Warangal</h3>
+![](https://github.com/RajolKumar2003/RajolKumar2003/blob/main/github-header-image.png)
+# Rajol Kumar
+### NIT Warangal | Data Science & AI/ML | Anomaly Detection Researcher
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F9CE9&center=true&vCenter=true&width=550&lines=Code.+Analyze.+Innovate;Machine+Learning+%7C+Deep+Learning;Anomaly+%26+Intrusion+Detection+Research;Competitive+Programmer" alt="Typing SVG" />
-</p>
+Welcome to my GitHub profile! I'm Rajol Kumar, an M.Sc. Mathematics & Scientific Computing student at NIT Warangal with a passion for Machine Learning, Deep Learning, and Data Science. I'm currently working on ML/DL-based network anomaly and intrusion detection as a Summer Research Intern at WSAI, IIT Madras. Excited to share my journey with you through my project portfolio.
 
-<p align="center">
-  <a href="https://linkedin.com/in/rajol-kumar-3ab282378/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rajol.kumar.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/RajolKumar2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajolKumar2003&theme=dark)](https://github.com/RajolKumar2003)
 
----
+## Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajolKumar2003&theme=dark&hide_border=true&repo=Anomaly-Detection-in-Computer-Log-Using-ML-Techniques)](https://github.com/RajolKumar2003/Anomaly-Detection-in-Computer-Log-Using-ML-Techniques) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajolKumar2003&theme=dark&hide_border=true&repo=DEEP_LEARNING)](https://github.com/RajolKumar2003/DEEP_LEARNING) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajolKumar2003&theme=dark&hide_border=true&repo=NLP)](https://github.com/RajolKumar2003/NLP)
 
-### 🧑‍💻 About Me
+## IDE
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/RajolKumar2003)
 
-- 🎓 Currently pursuing **M.Sc. in Mathematics & Scientific Computing** at **NIT Warangal** (CGPA: 8.53)
-- 🔬 Summer Research Intern at **Wadhwani School of Data Science & AI (WSAI), IIT Madras** — working on **ML/DL-based Network Anomaly & Intrusion Detection**
-- 📊 Interested in **Machine Learning, Deep Learning, Data Science & Analytics**
-- 🏅 Joint Secretary, Mathematics Association, NIT Warangal
-- ⚡ Fun fact: Also a state-level athlete (Kho-Kho, Athletics) alongside data science!
+## Skills
+- ### Languages
+  [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge)](https://github.com/RajolKumar2003)
+- ### Libraries & Frameworks
+  [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/XGBoost-1560BD?style=for-the-badge) ![](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge) ![](https://img.shields.io/badge/Optuna-4051B5?style=for-the-badge) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) ![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://github.com/RajolKumar2003)
+- ### Math & Scientific Computing
+  [![](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge) ![](https://img.shields.io/badge/SciLab-CE1126?style=for-the-badge) ![](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/RajolKumar2003)
+- ### Databases
+  [![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://github.com/RajolKumar2003)
 
----
-
-### 🔭 Current Work
-
-**Anomaly Detection in Computer Logs Using ML/DL Techniques** — *WSAI, IIT Madras*
+## Current Research
+**Anomaly Detection in Computer Logs Using ML/DL Techniques** — *WSAI, IIT Madras (May 2026 – Jul 2026)*
 - Designed a 3-stage ML pipeline (small → medium → large scale) across **1M+ network traffic records**
 - Evaluated 7 supervised classifiers on **UNSW-NB15** (257K+ records) with Optuna HPO → best model **XGBoost (F1 = 0.91)**
-- Compared statistical, tree-based, distance-based & DL methods on **CSE-CIC-IDS2018** (48 configs, 3 anomaly rates) → best **Autoencoder (F1 = 0.93)**, scaled to 874K+ records, peak **F1 = 0.96**
-- 🔗 [View Repository](https://github.com/RajolKumar2003/Anomaly-Detection-in-Computer-Log-Using-ML-Techniques)
+- Compared statistical, tree-based, distance-based & DL methods on **CSE-CIC-IDS2018** (48 configs, 3 anomaly rates: 0.2%, 1%, 5%) → best **Autoencoder (F1 = 0.93)**, scaled to 874K+ records, peak **F1 = 0.96**
 
----
+## Certifications
+[![Static Badge](https://img.shields.io/badge/MATLAB-Onramp-%20?style=flat&logo=mathworks&color=orange)](https://github.com/RajolKumar2003) [![Static Badge](https://img.shields.io/badge/Machine%20Learning-Onramp-%20?style=flat&logo=mathworks&color=orange)](https://github.com/RajolKumar2003) [![Static Badge](https://img.shields.io/badge/Image%20Processing-Onramp-%20?style=flat&logo=mathworks&color=orange)](https://github.com/RajolKumar2003) [![Static Badge](https://img.shields.io/badge/Deep%20Learning-Onramp-%20?style=flat&logo=mathworks&color=orange)](https://github.com/RajolKumar2003)
 
-### 🛠️ Tech Stack
+## GitHub Analytics
+[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajolKumar2003&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajolKumar2003&layout=compact&theme=dark&hide_border=true"/>](https://github.com/RajolKumar2003)
 
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square"/>
-</p>
+## GitHub Streaks
+[![GitHub Streak](https://streak-stats.demolab.com?user=RajolKumar2003&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-**ML / DL Frameworks**
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-1560BD?style=flat-square"/>
-<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/>
-<img src="https://img.shields.io/badge/Optuna-4051B5?style=flat-square"/>
-</p>
+## Trophies
+![](https://github-profile-trophy.vercel.app/?username=RajolKumar2003&theme=onedark)
 
-**Tools & Platforms**
-<p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
+## Achievements
+- 🎓 Institute Merit-cum-Means Scholarship, NIT Warangal (2025)
+- 🏅 Captain & Participant, All India Inter-NIT Kho-Kho Tournament (NIT Calicut, NIT Rourkela)
+- 🥇 Gold Medalist, 400m Athletics, NIT Warangal
+- 🥈 2nd Position, Mini Marathon (17:41.72), National Sports Week, NIT Warangal
+- 🎖️ NCC 'A' Certificate (2018), Ministry of Defence
+- 🧑‍💼 Joint Secretary, Mathematics Association, NIT Warangal (Sep 2025 – Present)
 
----
+## Contact
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajol.kumar.official@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajolKumar2003)
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Anomaly Detection in Computer Logs](https://github.com/RajolKumar2003/Anomaly-Detection-in-Computer-Log-Using-ML-Techniques)** | Comparative study of ML/DL anomaly detection on network logs, from a small labeled dataset to large-scale CSE-CIC-IDS2018, with a Deep Autoencoder under benign-only training | Python, TensorFlow, Scikit-learn |
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajolKumar2003&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajolKumar2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajolKumar2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-<p align="center">📫 Reach me at <b>rajol.kumar.official@gmail.com</b></p>
-<!--
-**RajolKumar2003/RajolKumar2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+RajolKumar2003/RajolKumar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
