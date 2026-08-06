@@ -1,4 +1,4 @@
-![](https://github.com/RajolKumar2003/RajolKumar2003/blob/main/github-header-image (1).png)
+![](https://github.com/RajolKumar2003/RajolKumar2003/blob/main/github-header-image.png)
 # Rajol Kumar
 ### NIT Warangal | Data Science & AI/ML | Anomaly Detection Researcher
 
