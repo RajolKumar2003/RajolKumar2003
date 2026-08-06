@@ -72,18 +72,6 @@
 | Project | Description | Tech |
 |---|---|---|
 | **[Anomaly Detection in Computer Logs](https://github.com/RajolKumar2003/Anomaly-Detection-in-Computer-Log-Using-ML-Techniques)** | Comparative study of ML/DL anomaly detection on network logs, from a small labeled dataset to large-scale CSE-CIC-IDS2018, with a Deep Autoencoder under benign-only training | Python, TensorFlow, Scikit-learn |
----
-
-### 🏆 Achievements & Certifications
-
-- 🥇 MATLAB, Machine Learning, Image Processing & Deep Learning Onramp certifications
-- 🎓 Institute Merit-cum-Means Scholarship, NIT Warangal (2025)
-- 🏅 Captain & Participant, All India Inter-NIT Kho-Kho Tournament
-- 🥇 Gold Medalist, 400m Athletics, NIT Warangal
-- 🥈 2nd Position, Mini Marathon (17:41.72), National Sports Week
-- 🎖️ NCC 'A' Certificate (2018), Ministry of Defence
-
----
 
 ### 📊 GitHub Stats
 
