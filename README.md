@@ -1,10 +1,6 @@
 ![](https://github.com/RajolKumar2003/RajolKumar2003/blob/main/github-header-image.png)
-# Rajol Kumar
-### NIT Warangal | Data Science & AI/ML | Anomaly Detection Researcher
 
-Welcome to my GitHub profile! I'm Rajol Kumar, an M.Sc. Mathematics & Scientific Computing student at NIT Warangal with a passion for Machine Learning, Deep Learning, and Data Science. I'm currently buliding a strong foundation on Data Scientist.
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajolKumar2003&theme=dark)](https://github.com/RajolKumar2003)
+Welcome to my GitHub profile! I'm Rajol Kumar, an M.Sc. Mathematics & Scientific Computing student at NIT Warangal with a passion for Machine Learning, Deep Learning, and Data Science. I'm currently buliding a strong foundation on Data Science.
 
 ## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajolKumar2003&theme=dark&hide_border=true&repo=Anomaly-Detection-in-Computer-Log-Using-ML-Techniques)](https://github.com/RajolKumar2003/Anomaly-Detection-in-Computer-Log-Using-ML-Techniques) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajolKumar2003&theme=dark&hide_border=true&repo=DEEP_LEARNING)](https://github.com/RajolKumar2003/DEEP_LEARNING) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajolKumar2003&theme=dark&hide_border=true&repo=NLP)](https://github.com/RajolKumar2003/NLP)
@@ -34,16 +30,8 @@ Welcome to my GitHub profile! I'm Rajol Kumar, an M.Sc. Mathematics & Scientific
 ## GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=RajolKumar2003&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## Achievements
-- 🎓 Institute Merit-cum-Means Scholarship, NIT Warangal (2025)
-- 🏅 Captain & Participant, All India Inter-NIT Kho-Kho Tournament (NIT Calicut, NIT Rourkela)
-- 🥇 Gold Medalist, 400m Athletics, NIT Warangal
-- 🥈 2nd Position, Mini Marathon (17:41.72), National Sports Week, NIT Warangal
-- 🎖️ NCC 'A' Certificate (2018), Ministry of Defence
-- 🧑‍💼 Joint Secretary, Mathematics Association, NIT Warangal (Sep 2025 – Present)
-
 ## Contact
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajol.kumar.official@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajolKumar2003)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajol.kumar.official@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rajol-kumar-3ab282378) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajolKumar2003)
 
 <!---
 RajolKumar2003/RajolKumar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
