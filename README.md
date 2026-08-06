@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rajol-kumar-3ab282378/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rajol.kumar.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/RajolKumar2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -72,11 +72,6 @@
 | Project | Description | Tech |
 |---|---|---|
 | **[Anomaly Detection in Computer Logs](https://github.com/RajolKumar2003/Anomaly-Detection-in-Computer-Log-Using-ML-Techniques)** | Comparative study of ML/DL anomaly detection on network logs, from a small labeled dataset to large-scale CSE-CIC-IDS2018, with a Deep Autoencoder under benign-only training | Python, TensorFlow, Scikit-learn |
-| **[Deep Learning Concepts](https://github.com/RajolKumar2003/DEEP_LEARNING)** | Practical implementations of core deep learning concepts | Python, TensorFlow/Keras |
-| **[NLP Concepts](https://github.com/RajolKumar2003/NLP)** | Practical implementation of NLP concepts | Python |
-| **Automated Inventory Management System** | Python-based inventory system with billing, GST, discounts & real-time stock updates | Python, JSON |
-| **GDP Analysis — Data Visualization** | Studied global GDP growth patterns and cross-country comparisons | Excel, Python |
-
 ---
 
 ### 🏆 Achievements & Certifications
