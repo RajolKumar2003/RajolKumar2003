@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! I'm Rajol Kumar, an M.Sc. Mathematics & Scientific Computing student at NIT Warangal with a passion for Machine Learning, Deep Learning, and Data Science. I'm currently buliding a strong foundation on Data Science.
 
-## Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajolKumar2003&theme=dark&hide_border=true&repo=Anomaly-Detection-in-Computer-Log-Using-ML-Techniques)](https://github.com/RajolKumar2003/Anomaly-Detection-in-Computer-Log-Using-ML-Techniques) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajolKumar2003&theme=dark&hide_border=true&repo=DEEP_LEARNING)](https://github.com/RajolKumar2003/DEEP_LEARNING) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RajolKumar2003&theme=dark&hide_border=true&repo=NLP)](https://github.com/RajolKumar2003/NLP)
-
 ## IDE
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/RajolKumar2003)
 
